@@ -26,3 +26,7 @@ CivicLens AI is an AI-driven backend platform that:
 
 ## Current Status
 MVP under active development.
+## Document Support
+- Image files (PNG, JPG): OCR supported
+- Text-based PDFs (Google Docs, Word): Supported
+- Scanned PDFs: Detected and reported (planned enhancement)
